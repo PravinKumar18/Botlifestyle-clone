@@ -1,0 +1,26 @@
+.twelve{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+    height: 270px;
+    text-align: center;
+
+    
+}
+.eleven{
+    margin: 50px;
+    
+}
+.thirteen{
+    height:150px;
+}
+.fifteen{
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.fourteen{
+    background-color: rgb(236, 246, 246);
+
+   
+}

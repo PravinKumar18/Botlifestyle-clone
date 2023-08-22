@@ -1,0 +1,40 @@
+.card2-body{
+    display: flex;
+justify-content: space-evenly;
+}
+
+.card2-container{
+    width: 330px;
+    height: 220px;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid white;
+    
+}
+
+
+
+.card2-img{
+    width: 100%;
+    height: 150px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+
+.card2-img:hover{
+    transform: scale(1.1);
+}
+
+.card2-text{
+    text-align: center;
+padding-left: 10px;
+padding-right: 10px;
+}
+.card2-text:hover{
+    color: red;
+}
+.card2-heading{
+    padding-left: 30px;
+}

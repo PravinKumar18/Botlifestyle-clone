@@ -1,0 +1,52 @@
+.one{
+    display: flex;
+    justify-content: space-around;
+    font: 1.1em sans-serif;
+    /* font-weight: 500; */
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+
+}
+
+.link:hover{
+    color: red;
+}
+.four{
+    display: flex;
+}
+
+.five{
+ list-style: none;   
+ margin: 20px;
+}
+img{
+    height: 40px;
+}
+
+.eight{
+    width: 250px;
+    height: 40px;
+   border: none;
+   border-radius: 300px;
+  padding-left: 20px;
+
+    background-color: rgb(223, 234, 246);
+}
+
+.six{
+    padding-right: 20px;
+    height: 30px;
+}
+.seven{
+    border: 1px;
+
+   
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+

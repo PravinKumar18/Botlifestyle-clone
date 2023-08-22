@@ -1,0 +1,14 @@
+.footer2-top{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-top: 1.5px solid lightgray;
+    border-bottom: 1.5px solid lightgray;
+    
+}
+
+.footer2-img{
+    display: flex;
+    width: 135px;
+    height: 50px;
+}
